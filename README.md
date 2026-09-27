@@ -27,6 +27,7 @@ v0.2.0 - 콤보, 점수 UI, MISS, 메인메뉴 추가
   - Option 메뉴 추가
 
 ### Planned
+- grid 개선
 - 점수 계산 방식
 - rainbow zone 버그 수정
 - combo 테스트
